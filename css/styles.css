@@ -1,3 +1,10 @@
+body {
+  background-color: #cccc00;
+}
+h1 {
+  font-size: 50px;
+}
+
 .showing-1{
   display: none;
 }
